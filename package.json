@@ -1,0 +1,19 @@
+{
+  "name": "provanode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulofsantos/provanode.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulofsantos/provanode/issues"
+  },
+  "homepage": "https://github.com/paulofsantos/provanode#readme"
+}
